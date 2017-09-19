@@ -1,9 +1,9 @@
-body {
-    background-color: light blue
+h1 {
+background-color: light blue
 }
 h1 
 {
-color white;
+color:white;
 text-align: center;
 }
 
@@ -12,6 +12,25 @@ font-family: verdana;
 font-size: 20pt;
 }
 
-p{  margin: 100px 150px 100px 82px
+p{  
+margin: 100px 150px 100px 82px;
 }
-    
+p { 
+border: 2px solid medium blue;
+margin: 28px;
+}
+
+p {            
+border: 2px solid medium blue;
+padding: 28px
+}
+
+}
+.intro {
+background-color: bright orange;
+}
+
+{
+#firstname and lastname {
+    background-color: bright green;
+
